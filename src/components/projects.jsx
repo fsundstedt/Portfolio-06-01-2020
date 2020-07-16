@@ -100,7 +100,7 @@ export default function Projects() {
                                     <li>Designed with React styled components</li>
                                 </ul>
                                 <figure className="image is-64x64">
-                                    <a href="https://github.com/fsundstedt/App-Track" target="_blank"><img src={require("../images/icons/GitHub-Icon.png")} alt="Project Image"/></a>
+                                    <a href="https://github.com/fsundstedt/amort-calculator-04-13-2020" target="_blank"><img src={require("../images/icons/GitHub-Icon.png")} alt="Project Image"/></a>
                                 </figure>
                             </div>
                         </div>
